@@ -1,0 +1,14 @@
+vehicles
+bicycles
+cars
+buses
+traffic lights
+bridges
+a fire hydrant
+boats
+crosswalks
+mountains or hills
+palm trees
+parking meters
+taxis
+trees
