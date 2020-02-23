@@ -10,4 +10,4 @@ It's a very beginning version, developed with PyQt5, make sure it's installed an
 Python3 labelClass.py
 ```
 
-It's for the convenience in labeling multi-classes image dataset. The labeled info will be saved in a **json** file with a Python dictionary data structure. Other format like **txt** and **xml** will be added soon.
+It's for the convenience in labeling multi-classes image dataset. The labeled info will be saved in a **json** file with a Python dictionary data structure. Other format like **txt** and **xml** will soon be added.
